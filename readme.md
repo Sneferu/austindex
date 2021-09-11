@@ -1,18 +1,5 @@
 # The Austindex
 
-A Lightweight Guide to Austin, Texas
-
-## Purpose
-
-Imagine you're the kind of person who gets travel advice from a Readme.  This guide is designed to turn you into such a person.  It consists of a set of activities, indexed by type, along with a _heavily subjective_ evaluation of each.  We start with food, move on to activities, and finish with a miscellany bucket.  If you try anything and it doesn't fit my description, please let me know right away.  Have fun!
-
-*Disclaimer #1: Some of this information may be out of date, and should be verified with a trusted source like Yelp or Google Maps.  When in doubt, don't take my word for it - check it out yourself, and feel free to let me know what's changed.*
-
-*Disclaimer #2: These evaluations are entirely subjective and represent my opinions alone, rather than an endorsement from any organization or from my place of work.  If your favorite place of business doesn't appear, there's a good chance I just haven't been there yet.*
-
-## Activities
-
-### Breakfast
 
 In no particular order:
 
@@ -69,6 +56,8 @@ Sit-down restaurant focused. A few options from the lunch menu could also go her
 **Madam Mam's** Local Thai chain.  Curries and Fried Rice are out of this world, though their Pad Thai is basically ketchup noodles. Note also there is a Baskin Robbins two doors down.
 
 **Clay Pit** Nice Indian restaurant.  Remember to order food Desi Hot if you want any heat.
+
+**Devil May Care** Hidden Mediterranean-style tapas restaurant.  Expensive but unbelievably flavorful.  Best menu items include the lobster tail on lettuce and the ricotta with pita.  
 
 **ATX Cocina** Creative upscale Spanish food.  Haven't been here since before Covid, though it was pretty great at the time.
 
