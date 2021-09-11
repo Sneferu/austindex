@@ -109,6 +109,8 @@ A few bars stand out.  Disclaimer: some of this info is pre-Covid.
 
 **Codependent** Chill vibes, nice outdoor space.  A little pricey.
 
+**Kalimotxo** Upscale Spanish-themed bar attached to a pretty nice restaurant.  Great Spanish wine and cocktails, as well as a robust Sherry selection.
+
 **Swift's Attic** Another nice sit-down with a phenomenal liquor selection.  Frequented by some of the city's high-flyers.
 
 For dancing, pretty much anything on West 6th or Rainey will do the trick.  For dirty dancing, see the movie, or go to Dirty 6th.
