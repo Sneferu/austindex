@@ -55,6 +55,8 @@ Sit-down restaurant focused. A few options from the lunch menu could also go her
 
 **Madam Mam's** Local Thai chain.  Curries and Fried Rice are out of this world, though their Pad Thai is basically ketchup noodles. Note also there is a Baskin Robbins two doors down.
 
+**Sichuan River** Sichuan restaurant serving both canonical American-Chinese dishes and more authentic dishes (such as offal).  Fried rice is fantastic.
+
 **Clay Pit** Nice Indian restaurant.  Remember to order food Desi Hot if you want any heat.
 
 **Devil May Care** Hidden Mediterranean-style tapas restaurant.  Expensive but unbelievably flavorful.  Best menu items include the lobster tail on lettuce and the ricotta with pita.  
