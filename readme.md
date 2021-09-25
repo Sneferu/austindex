@@ -90,6 +90,8 @@ Probably the best thing about Austin, if you know where to go.
 
 **Barley Bean** Little place on South Lamar.  Very large drink selection and tasty baked goods.
 
+**Nate's Baked Goods and Coffee** Bakery and coffee shop east of Lamar which also carries breakfast options.  Definitely try the Charlie Sheen and the cinnamon roll.  
+
 **Zhi Tea** East side tea shop with a massive selection of loose-leaf teas, both true and herbal.  The owner is extremely friendly and the sample flights make bulk buying easy.
 
 **West China Tea** Eclectic tea shop specializing in unique varietals imported directly from China.  Owner is extremely knowledgeable about tea craft and culture.
