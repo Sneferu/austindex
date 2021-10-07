@@ -106,6 +106,8 @@ Skewed toward ice cream, but is that so bad?
 
 **Baked Bear** Imagine an ice cream sandwich, but the bread is two cookies and the ice cream is extra ice cream.
 
+**Hawaiian Ice Cream** Exactly what it sounds like.  Near the UT campus, it serves a wide variety of tropical themed ice creams.
+
 ### Night Life
 
 Austin's night life is a complex and ever-evolving system.  Here's the basic layout:
